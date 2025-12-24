@@ -1,5 +1,6 @@
-## Hi there 👋
+## I'm Rebira Adugna 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebira678)](https://github.com/rebira678/github-readme-stats)
 <!--
 **Rebira678/rebira678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
