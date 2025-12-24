@@ -11,6 +11,7 @@ I’m a full-stack software engineer with a strong focus on modern web architect
 ![Profile Views](https://komarev.com/ghpvc/?username=rebira678&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/rebira678?label=Followers&style=social)](https://github.com/rebira678)
 
+![GitHub Stats](https://github-readme-stats-two-jet-21.vercel.app/api?username=rebira678&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rebira678&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=rebira678&theme=tokyonight)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rebira678&theme=tokyonight)
