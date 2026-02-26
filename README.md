@@ -43,26 +43,26 @@ I’m a full-stack software engineer passionate about modern web architectures, 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
-
 ## 🎯 Current Focus
 
 - Designing and building **scalable MERN-based applications**
-- Deploying and managing **cloud-native systems on AWS**
-- Containerized development using **Docker & Kubernetes**
-- Infrastructure as Code with **Terraform**
+- Containerized development using **Docker **
 - CI/CD automation for reliable and fast delivery
+- Exploring cloud-native deployments on **AWS**
+- Experimenting with **AI tools and integrations** to enhance software solutions
 
 ---
 
 ## 🚀 Long-Term Vision
 
 My long-term goal is to build a **global technology company** that solves real problems through well-engineered systems.  
-I’m deeply interested in:
+I’m deeply focused on:
 
 - **Scalable System Architecture**
 - **Founder-led Engineering & Product Thinking**
 - **Cloud Infrastructure & DevOps Excellence**
-- **Building platforms that empower communities and businesses**
+- **Integrating AI to create smarter, adaptive platforms**
+- **Creating platforms that empower communities and businesses**
 
 ---
 
