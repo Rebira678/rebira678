@@ -1,10 +1,11 @@
-#👋 Hi, I'm Rebira Adugna (rebik)
-###Software Engineer | Full-Stack (MERN & Python) | Cloud, DevOps & AI Enthusiast
+# 👋 Hi, I'm Rebira Adugna (rebik)
 
-**Building scalable systems and exploring the power of AI.**
-I’m a full-stack software engineer with expertise in modern web architectures, Python development, cloud-native infrastructure, and DevOps automation. I approach engineering with a founder’s mindset — focusing on systems, scalability, and long-term value — while actively exploring AI technologies and their transformative potential.
+### Software Engineer | Full-Stack (MERN & Python) | AI Cloud and Docker Enthusiast
 
-💡 Problem Solver: Solved 450+ challenges on LeetCode and Codeforces, tackling algorithms, data structures, and real-world coding problems.
+Building scalable systems with clean and efficient code.  
+I’m a full-stack software engineer passionate about modern web architectures, Python development, and containerized applications with Docker.
+
+💡 **Problem Solver:** Completed 450+ coding challenges on LeetCode and Codeforces, mastering algorithms, data structures, and real-world problem-solving.
 
 
 ## 📊 GitHub Activity & Statistics
