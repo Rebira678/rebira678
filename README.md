@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rebira Adugna (rebik)
 
-### Software Engineer | web developer (MERN & Python) | AI and Cloud Enthusiast
+### Software Engineering Student @ ASTU | web developer (MERN & Python) | AI and Cloud Enthusiast
 
 Building scalable systems with clean and efficient code.  
 I’m a full-stack software engineer passionate about modern web architectures, Python development, and containerized applications with Docker.
