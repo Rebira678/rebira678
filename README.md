@@ -5,7 +5,7 @@
 Building scalable systems with clean and efficient code.  
 I’m a full-stack software engineer passionate about modern web architectures, Python development, and containerized applications with Docker.
 
-💡 **Problem Solver:** Completed 450+ coding challenges on LeetCode and Codeforces, mastering algorithms, data structures, and real-world problem-solving.
+💡 **Problem Solver:** Completed 500+ coding challenges on LeetCode and Codeforces, mastering algorithms, data structures, and real-world problem-solving.
 
 
 ## 📊 GitHub Activity & Statistics
