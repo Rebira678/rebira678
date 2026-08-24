@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38B2AC&height=220&section=header&text=Hi%2C%20I'm%20Rebira%20%F0%9F%91%8B&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20SaaS%20Builder&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,100:7aa2f7&height=250&section=header&text=Hi%2C%20I'm%20Rebira%20(rebik)%20%F0%9F%91%8B&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20SaaS%20Builder&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Building+TradeDraft+%F0%9F%9A%80;Training+%26+Aligning+LLMs+%F0%9F%A4%96;Fine-tuning+%2B+RLHF+%2B+Evaluation;500%2B+LeetCode+%2F+Codeforces+solved;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+TradeDraft+%F0%9F%9A%80;Training+%26+Aligning+LLMs+%F0%9F%A4%96;Fine-tuning+%2B+RLHF+%2B+Evaluation;500%2B+LeetCode+%2F+Codeforces+solved;Always+shipping+something+new" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rebira678&color=0e75b6&style=flat&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rebira678&color=7aa2f7&style=flat&label=Profile+Views" alt="Profile Views" />
 <a href="https://github.com/rebira678?tab=followers"><img src="https://img.shields.io/github/followers/rebira678?label=Followers&style=social" alt="GitHub followers" /></a>
 
 </div>
@@ -17,75 +17,35 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm an **AI Engineer** and full-stack developer who loves building clean, practical web applications and making AI models smarter. I spend most of my time at the intersection of robust backend codebases and intelligent, data-driven systems — basically, I like things that work *and* think.
-
-```yaml
-name:               Rebira Adugna
-handle:             "@rebira678"
-role:               AI Engineer · Full-Stack Developer · A2SVian
-based_in:           Ethiopia 🇪🇹
-currently_building: TradeDraft
-currently_learning: Multi-agent orchestration
-fun_fact:           500+ algorithmic problems solved on LeetCode & Codeforces
-```
-
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="60%" valign="top">
 
-### 🧠 Training & Aligning AI
-Working deep with LLMs — fine-tuning, evaluation, and alignment frameworks like RLHF to make sure models deliver high-quality, reliable, safe results.
+Hey, I'm **Rebira** — most people know me as **rebik**. I'm an AI Engineer and full-stack developer who loves building clean, practical web apps and making AI models smarter. Most of my time lives at the intersection of solid backend engineering and intelligent, data-driven systems — I like things that work *and* think.
 
-</td>
-<td width="33%" valign="top">
-
-### 🛠️ Building SaaS
-Pouring my energy into **TradeDraft** — an AI-powered platform helping solo contractors manage quotes, paperwork, and project lifecycles.
+Outside of shipping code, I spend a lot of time on LLM fine-tuning, evaluation, and alignment work like RLHF, and I keep my problem-solving sharp with 500+ challenges solved across LeetCode and Codeforces.
 
 </td>
-<td width="33%" valign="top">
+<td width="40%" valign="top">
 
-### 🧩 Solving Hard Problems
-I genuinely enjoy breaking down tough logic — 500+ algorithmic challenges cracked on LeetCode and Codeforces.
+**Quick Facts**
+
+🧠&nbsp;&nbsp;AI Engineer & Full-Stack Dev
+🌍&nbsp;&nbsp;Based in Ethiopia
+🚧&nbsp;&nbsp;Building **TradeDraft**
+📚&nbsp;&nbsp;Learning multi-agent orchestration
+🏫&nbsp;&nbsp;A2SVian
+🎯&nbsp;&nbsp;500+ DSA problems solved
 
 </td>
 </tr>
 </table>
 
----
+### 🚀 What I'm Focused On
 
-## 🌟 Featured Project
-
-<table>
-<tr>
-<td width="70%">
-
-### 🧾 TradeDraft — AI-Powered Project Management for Contractors
-
-TradeDraft helps solo contractors handle quotes, professional paperwork, and their entire project lifecycle from one clean dashboard — powered by AI to cut the admin work down to minutes.
-
-**Highlights**
-- 🤖 AI-assisted quote & document generation
-- 📋 End-to-end project lifecycle tracking
-- ⚡ Built for speed — solo contractors don't have time to waste
-
-<img src="https://img.shields.io/badge/Status-In%20Development-38B2AC?style=flat-square" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-
-</td>
-<td width="30%" align="center">
-
-**🔗 Live**
-[my-portfolio-v2-8o8w.vercel.app](https://my-portfolio-v2-8o8w.vercel.app/)
-
-**📬 Get in touch**
-[LinkedIn](https://www.linkedin.com/in/rebira-adugna-6496b2373)
-
-</td>
-</tr>
-</table>
+- 🧠 **Training & Aligning AI** — fine-tuning, evaluation, and alignment frameworks like RLHF to make sure models deliver high-quality, reliable, safe results.
+- 🛠️ **Building TradeDraft** — an AI-powered platform helping solo contractors manage quotes, professional paperwork, and their project lifecycle end to end.
+- 🧩 **Solving Hard Problems** — 500+ algorithmic challenges cracked on LeetCode and Codeforces to keep my core engineering skills sharp.
 
 ---
 
@@ -106,7 +66,7 @@ TradeDraft helps solo contractors handle quotes, professional paperwork, and the
 
 </div>
 
-> Stats and streak are self-hosted and refreshed automatically — no more "rate limited" errors 🎉
+> ⚠️ If your streak/contribution numbers still look off, make sure **"Include private contributions on my profile"** is enabled in your GitHub settings, and that your streak workflow uses a Personal Access Token (not the default `GITHUB_TOKEN`) — see setup notes below.
 
 ---
 
@@ -115,6 +75,21 @@ TradeDraft helps solo contractors handle quotes, professional paperwork, and the
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rebira678&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </div>
+
+<details>
+<summary>⚙️ Trophies not loading or stuck? (click to expand fix)</summary>
+<br/>
+
+This widget shares the same free public server as everyone else, so it can hit the same rate-limit issue your stats card had. Two fixes:
+
+1. **Quick fix** — hard refresh your GitHub profile page (Ctrl+Shift+R / Cmd+Shift+R). GitHub caches external images through its camo proxy, so a stale error sometimes just needs a forced reload.
+2. **Permanent fix** — self-host it exactly like you did for `github-readme-stats`:
+   - Fork [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+   - Import it into Vercel
+   - Add your GitHub PAT as an environment variable (check the repo's README for the exact variable name — it may be `GITHUB_TOKEN` in Vercel's project settings)
+   - Deploy, then swap the image URL above to your own `*.vercel.app` domain
+
+</details>
 
 ---
 
@@ -130,7 +105,7 @@ TradeDraft helps solo contractors handle quotes, professional paperwork, and the
 
 **Backend, AI & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,go,mongodb,supabase&theme=dark" />
 
 <br/><br/>
 
@@ -171,7 +146,7 @@ My ultimate goal is to **found and build my own technology company**. I'm incred
 <summary>🔬 <b>Want the deep-dive metrics dashboard? (click to expand)</b></summary>
 <br/>
 
-For an even richer stats panel (contribution calendar heatmap, code review stats, activity timeline, achievements), you can add [lowlighter/metrics](https://github.com/lowlighter/metrics) — it's the most powerful GitHub stats tool available and runs entirely as a free GitHub Action.
+For an even richer stats panel (contribution calendar heatmap, code review stats, activity timeline, achievements), you can add [lowlighter/metrics](https://github.com/lowlighter/metrics) — the most powerful GitHub stats tool available, and it runs entirely as a free GitHub Action.
 
 **Setup:**
 1. Create a token at [github.com/settings/tokens](https://github.com/settings/tokens/new) with `repo` and `read:user` scopes
@@ -270,4 +245,4 @@ jobs:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0e75b6&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7aa2f7,100:1a1b27&height=100&section=footer" />
