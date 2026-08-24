@@ -15,40 +15,66 @@
 
 <br/>
 
-## 👨‍💻 About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=55&section=header&text=About%20Me&fontSize=22&fontColor=fff&fontAlignY=60" width="100%"/>
+</div>
+
+<div align="center">
+
+### *"I build things that work — and think."*
+
+</div>
+
+<p align="center">
+Hey, I'm <b>Rebira</b> — most people know me as <b>rebik</b>. I'm an AI Engineer and full-stack developer who loves building clean, practical web apps and making AI models smarter. Most of my time lives at the intersection of solid backend engineering and intelligent, data-driven systems.
+<br/><br/>
+Outside of shipping code, I spend a lot of time on LLM fine-tuning, evaluation, and alignment work like RLHF, and I keep my problem-solving sharp with 500+ challenges solved across LeetCode and Codeforces.
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Engineer-1a1b27?style=for-the-badge&logo=sparkles&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Full--Stack%20Developer-1a1b27?style=for-the-badge&logo=react&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Based%20in%20Ethiopia-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=7aa2f7" />
+<br/>
+<img src="https://img.shields.io/badge/Building-TradeDraft-1a1b27?style=for-the-badge&logo=vercel&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/A2SVian-1a1b27?style=for-the-badge&logo=africa&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/500%2B%20DSA%20Solved-1a1b27?style=for-the-badge&logo=leetcode&logoColor=7aa2f7" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=55&section=header&text=What%20I'm%20Focused%20On&fontSize=22&fontColor=fff&fontAlignY=60" width="100%"/>
+</div>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="33%" align="center" valign="top">
 
-Hey, I'm **Rebira** — most people know me as **rebik**. I'm an AI Engineer and full-stack developer who loves building clean, practical web apps and making AI models smarter. Most of my time lives at the intersection of solid backend engineering and intelligent, data-driven systems — I like things that work *and* think.
+**🧠 Training & Aligning AI**
 
-Outside of shipping code, I spend a lot of time on LLM fine-tuning, evaluation, and alignment work like RLHF, and I keep my problem-solving sharp with 500+ challenges solved across LeetCode and Codeforces.
+Fine-tuning, evaluation, and alignment frameworks like RLHF for high-quality, safe model outputs.
 
 </td>
-<td width="40%" valign="top">
+<td width="33%" align="center" valign="top">
 
-**Quick Facts**
+**🛠️ Building TradeDraft**
 
-🧠&nbsp;&nbsp;AI Engineer & Full-Stack Dev
-🌍&nbsp;&nbsp;Based in Ethiopia
-🚧&nbsp;&nbsp;Building **TradeDraft**
-📚&nbsp;&nbsp;Learning multi-agent orchestration
-🏫&nbsp;&nbsp;A2SVian
-🎯&nbsp;&nbsp;500+ DSA problems solved
+An AI-powered platform helping solo contractors manage quotes, paperwork, and full project lifecycles.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**🧩 Solving Hard Problems**
+
+500+ algorithmic challenges cracked on LeetCode and Codeforces to keep my engineering skills sharp.
 
 </td>
 </tr>
 </table>
-
-### 🚀 What I'm Focused On
-
-- 🧠 **Training & Aligning AI** — fine-tuning, evaluation, and alignment frameworks like RLHF to make sure models deliver high-quality, reliable, safe results.
-- 🛠️ **Building TradeDraft** — an AI-powered platform helping solo contractors manage quotes, professional paperwork, and their project lifecycle end to end.
-- 🧩 **Solving Hard Problems** — 500+ algorithmic challenges cracked on LeetCode and Codeforces to keep my core engineering skills sharp.
-
 ---
-
 ## 📊 GitHub Activity & Statistics
 
 <div align="center">
