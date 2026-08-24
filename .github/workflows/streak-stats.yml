@@ -22,7 +22,7 @@ jobs:
         with:
           options: user=rebira678&theme=tokyonight&disable_animations=true
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STREAK_TOKEN }}
 
       - name: Commit streak stats
         run: |
