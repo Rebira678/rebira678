@@ -66,19 +66,9 @@ Outside of shipping code, I spend a lot of time on LLM fine-tuning, evaluation, 
 
 </div>
 
-> ⚠️ If your streak/contribution numbers still look off, make sure **"Include private contributions on my profile"** is enabled in your GitHub settings, and that your streak workflow uses a Personal Access Token (not the default `GITHUB_TOKEN`) — see setup notes below.
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rebira678&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</div>
-
-<details>
-<summary>⚙️ Trophies not loading or stuck? (click to expand fix)</summary>
-<br/>
 
 This widget shares the same free public server as everyone else, so it can hit the same rate-limit issue your stats card had. Two fixes:
 
