@@ -74,8 +74,7 @@ An AI-powered platform helping solo contractors manage quotes, paperwork, and fu
 </td>
 </tr>
 </table>
----
-## 📊 GitHub Activity & Statistics
+ 📊 GitHub Activity & Statistics
 
 <div align="center">
 
