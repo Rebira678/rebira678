@@ -53,13 +53,12 @@ Outside of shipping code, I spend a lot of time on LLM fine-tuning, evaluation, 
 
 <div align="center">
 
-<img src="https://github-readme-stats-bqk2.vercel.app/api?username=rebira678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats-bqk2.vercel.app/api?username=rebira678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" alt="GitHub Stats" height="165" />
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" height="165" /></a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-bqk2.vercel.app/api/top-langs/?username=rebira678&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
+<img src="https://github-readme-stats-bqk2.vercel.app/api/top-langs/?username=rebira678&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" alt="Top Languages" height="165" />
 
 </div>
 
