@@ -60,9 +60,6 @@ Outside of shipping code, I spend a lot of time on LLM fine-tuning, evaluation, 
 
 <img src="https://github-readme-stats-bqk2.vercel.app/api/top-langs/?username=rebira678&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rebira678&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 
 </div>
 
