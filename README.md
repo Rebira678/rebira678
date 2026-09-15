@@ -67,14 +67,14 @@ An AI-powered platform helping solo contractors manage quotes, paperwork, and fu
 </td>
 <td width="33%" align="center" valign="top">
 
-**🧩 Solving Hard Problems**
+**Solving Hard Problems**
 
 500+ algorithmic challenges cracked on LeetCode and Codeforces to keep my engineering skills sharp.
 
 </td>
 </tr>
 </table>
- 📊 GitHub Activity & Statistics
+ GitHub Activity & Statistics
 
 <div align="center">
 
@@ -128,7 +128,7 @@ This widget shares the same free public server as everyone else, so it can hit t
 
 ---
 
-## 📈 Currently Leveling Up
+## Currently Leveling Up
 
 ```text
 LLM Fine-Tuning & RLHF     ████████████████░░░░  80%
@@ -139,7 +139,7 @@ Backend Architecture       █████████████████�
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - 🔧 **Shipping TradeDraft** — writing robust backend logic and polishing the user experience to get this platform into users' hands.
 - 🤖 **Smart AI Integration** — figuring out better ways to orchestrate autonomous multi-agent workflows so they can plug straight into web apps.
@@ -147,7 +147,7 @@ Backend Architecture       █████████████████�
 
 ---
 
-## 🌱 The Big Picture
+## The Big Picture
 
 My ultimate goal is to **found and build my own technology company**. I'm incredibly focused on product-led engineering — building independent SaaS platforms and leveraging AI to fix real-world, everyday operational headaches for business owners and users globally.
 
@@ -196,7 +196,7 @@ jobs:
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/rebira678/rebira678/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
