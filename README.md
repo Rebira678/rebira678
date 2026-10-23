@@ -87,21 +87,6 @@ An AI-powered platform helping solo contractors manage quotes, paperwork, and fu
 
 </div>
 
-
----
-
-
-This widget shares the same free public server as everyone else, so it can hit the same rate-limit issue your stats card had. Two fixes:
-
-1. **Quick fix** — hard refresh your GitHub profile page (Ctrl+Shift+R / Cmd+Shift+R). GitHub caches external images through its camo proxy, so a stale error sometimes just needs a forced reload.
-2. **Permanent fix** — self-host it exactly like you did for `github-readme-stats`:
-   - Fork [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-   - Import it into Vercel
-   - Add your GitHub PAT as an environment variable (check the repo's README for the exact variable name — it may be `GITHUB_TOKEN` in Vercel's project settings)
-   - Deploy, then swap the image URL above to your own `*.vercel.app` domain
-
-</details>
-
 ---
 
 ## 🛠️ Tech Stack
