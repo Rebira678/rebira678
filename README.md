@@ -79,7 +79,7 @@ An AI-powered platform helping solo contractors manage quotes, paperwork, and fu
 
 <div align="center">
 
-<img src="https://github-readme-stats-bqk2.vercel.app/api?username=rebira678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
+
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" height="165" /></a>
 
 <br/><br/>
